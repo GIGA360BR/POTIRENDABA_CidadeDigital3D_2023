@@ -1,0 +1,85 @@
+#: locale=pt
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_C6AD6C4D_D071_69E5_41E6_EAC01AAEEA9A.text = Av. Danilo Galeazzi
+HotspotPanoramaOverlayTextImage_C54ECDAE_D030_AAA7_41D2_BA7D22A49E84.text = Av. Danilo Galeazzi
+HotspotPanoramaOverlayTextImage_C41C5350_D030_DFFB_41D7_C7C5ACD49B7E.text = Av. Davi Ferreira da Rocha = Rodoanel Metropolitano de Rio Preto 
+HotspotPanoramaOverlayTextImage_C50D8F23_D073_675E_41D7_C32384CDFB15.text = Av. Davi Ferreira da Rocha = Rodoanel Metropolitano de Rio Preto 
+HotspotPanoramaOverlayTextImage_C7309207_D07F_F965_41D8_A9BB76609C6D.text = Centro - São José do Rio Preto 
+HotspotPanoramaOverlayTextImage_CB3FFE4C_D077_A9EA_4187_0B98B410CA8E.text = Cond. Village Damha 1, 2 e 3
+HotspotPanoramaOverlayTextImage_C933A8CC_D070_AAEA_41E7_4991EAC851FC.text = Condomínio Fenhouse
+HotspotPanoramaOverlayTextImage_C54F266E_D011_D9A7_41E8_DD91477DD135.text = Foto a 100 metros de altura
+HotspotPanoramaOverlayTextImage_C5768C35_D071_69A5_41C5_08C091EAA05E.text = Futuro Posto de Combustível
+HotspotPanoramaOverlayTextImage_C567A915_D070_AB65_41E5_483DB1DA1BE5.text = Parque Jaguaré
+HotspotPanoramaOverlayTextImage_C52841FF_D070_FAA5_41D3_6102CF7CF5CA.text = Visão Modular dos Terrenos:
+HotspotPanoramaOverlayTextImage_C4FE16B1_D033_66BD_41AB_A2FD5795A1F8.text = Vídeo Fluxo de Veículos 
+HotspotPanoramaOverlayTextImage_C9147584_D070_DB5B_41E2_D95887185F35.text = Zoológico Municipal
+
+## Media
+
+### Audio
+audiores_E61F36DC_D01F_66EB_41C0_3A4357C7B04F.mp3Url = media/audio_DFD9AB48_D011_AFEB_41E4_6CA7D4CE70E2_pt.mp3
+
+### Floorplan
+
+### Image
+imlevel_E6D081E9_D01F_5AAD_41E9_B2E381F0E1C5.url = media/map_C1A3AA10_D02F_A97A_41E4_4DCA5CD9AF88_pt_0.jpg
+imlevel_E6D091E9_D01F_5AAD_41DB_06DEFEF61FAD.url = media/map_C1A3AA10_D02F_A97A_41E4_4DCA5CD9AF88_pt_1.jpg
+imlevel_E6D0E1E9_D01F_5AAD_41E4_785BDEAAF61D.url = media/map_C1A3AA10_D02F_A97A_41E4_4DCA5CD9AF88_pt_2.jpg
+imlevel_E51C246C_D010_D9AB_41D8_A16A55C588DE.url = media/panorama_DE12E044_D013_59DB_41E9_C70CA59A1A87_HS_96oi7bda_pt.png
+imlevel_E5074674_D010_D9BB_41DA_85D7EDE8CCDF.url = media/panorama_DE12E044_D013_59DB_41E9_C70CA59A1A87_HS_b771wpre_pt.png
+imlevel_E502B88C_D010_E96B_41E7_ADEB0274543D.url = media/panorama_DE12E044_D013_59DB_41E9_C70CA59A1A87_HS_dp29op07_pt.png
+imlevel_E51A0526_D010_DBA7_41D5_643B9D7454BE.url = media/panorama_DE12E044_D013_59DB_41E9_C70CA59A1A87_HS_ixj1k5b2_pt.png
+imlevel_E5004930_D010_EBBB_41B3_BE5B46107BA9.url = media/panorama_DE12E044_D013_59DB_41E9_C70CA59A1A87_HS_tirqyhqh_pt.png
+imlevel_E505B73A_D010_E7AF_41E6_5885AFE20FC0.url = media/panorama_DE12E044_D013_59DB_41E9_C70CA59A1A87_HS_w5ulyfp9_pt.png
+imlevel_E50E4A20_D010_E95B_41E9_933844FC50BB.url = media/panorama_DE12E044_D013_59DB_41E9_C70CA59A1A87_HS_wskbagqu_pt.png
+imlevel_E511029A_D010_D96F_41D6_D89BD0FE93FF.url = media/panorama_DE564E7A_D013_69AF_41A1_BE6F27BB7FDE_HS_0khvd1og_pt.png
+imlevel_E4D181FB_D010_BAAE_41D0_C7CBDB93EABF.url = media/panorama_DE564E7A_D013_69AF_41A1_BE6F27BB7FDE_HS_llwpw233_pt.png
+imlevel_E5130172_D010_DBBE_41C9_ADEC52B2DA9B.url = media/panorama_DE564E7A_D013_69AF_41A1_BE6F27BB7FDE_HS_lyhcnwcy_pt.png
+imlevel_E51EF3B4_D010_DEBB_418E_E76CCF8B95F0.url = media/panorama_DE564E7A_D013_69AF_41A1_BE6F27BB7FDE_HS_lz4zb51j_pt.png
+imlevel_E558B39C_D010_BF6A_41C7_4D8AFDF1C202.url = media/panorama_DE564E7A_D013_69AF_41A1_BE6F27BB7FDE_HS_p3ekp7v0_pt.png
+imlevel_E54DF6CC_D010_A6EB_41E1_B1B959F0C39F.url = media/panorama_DE564E7A_D013_69AF_41A1_BE6F27BB7FDE_HS_x42os3ho_pt.png
+imlevel_E5166144_D010_DBDA_41D4_42F2A695E3E3.url = media/popup_C5A02624_D030_D95B_4187_17138A8C59C8_pt_0_0.jpg
+imlevel_E5167145_D010_DBDA_41A8_C938632F331C.url = media/popup_C5A02624_D030_D95B_4187_17138A8C59C8_pt_0_1.jpg
+imlevel_E5160145_D010_DBDA_41DC_1E1250655DD5.url = media/popup_C5A02624_D030_D95B_4187_17138A8C59C8_pt_0_2.jpg
+imlevel_E5161145_D010_DBDA_41CF_D688FE54DA2C.url = media/popup_C5A02624_D030_D95B_4187_17138A8C59C8_pt_0_3.jpg
+imlevel_E54F26A1_D010_B95D_41B2_4AC6217E4EE4.url = media/popup_C5BF4D06_D03F_EB67_41DD_164758705837_pt_0_0.png
+
+### Popup Image
+
+### Title
+panorama_DE564E7A_D013_69AF_41A1_BE6F27BB7FDE.label = ABERTURA
+panorama_DE12E044_D013_59DB_41E9_C70CA59A1A87.label = FOTO do ALTO
+video_C158FD1C_D010_AB6A_41BE_9A7DB142E745.label = Fluxo Time Lapse
+album_DF7A546E_D017_D9A7_41E3_E217DDA3D354_1.label = Mapa Visão ampla
+album_DF7A546E_D017_D9A7_41E3_E217DDA3D354_2.label = Mapa Visão1
+album_DF7A546E_D017_D9A7_41E3_E217DDA3D354_3.label = Módulos 5 Terrenos
+album_DF7A546E_D017_D9A7_41E3_E217DDA3D354_4.label = Placa Endereço
+album_DF7A546E_D017_D9A7_41E3_E217DDA3D354_5.label = Placa Esquina
+album_DF7A546E_D017_D9A7_41E3_E217DDA3D354_6.label = Placa Posto de Combustível
+map_C1A3AA10_D02F_A97A_41E4_4DCA5CD9AF88.label = Planta Baixa recortada
+album_DF7A546E_D017_D9A7_41E3_E217DDA3D354_7.label = Planta Baixa recortada
+album_DF7A546E_D017_D9A7_41E3_E217DDA3D354_0.label = ÁREA
+album_DF7A546E_D017_D9A7_41E3_E217DDA3D354.label = Álbum de Fotos DJI_0287
+
+### Video
+videolevel_E7CF412D_D01F_DBAA_41B2_E6BF976FD50B.posterURL = media/video_C158FD1C_D010_AB6A_41BE_9A7DB142E745_poster_pt.jpg
+videolevel_E7CF412D_D01F_DBAA_41B2_E6BF976FD50B.url = media/video_C158FD1C_D010_AB6A_41BE_9A7DB142E745_pt.mp4
+
+### Video Subtitles
+
+## Skin
+
+### Label
+Label_CFDBB7C8_D071_66EB_41E3_B484707416E2.text = Opção para Aluguel Modular 
+Label_F80374DB_D013_FAEE_41E7_001A1C226D6E.text = ÁREA TOTAL = 2.082,47 M2
+
+## Tour
+
+### Description
+tour.description = Área Villa Madalena contendo 5 Terrenos 
+
+### Title
+tour.name = Área Villa Madalena
